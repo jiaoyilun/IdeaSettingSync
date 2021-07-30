@@ -1,0 +1,5 @@
+<application>
+  <component name="Pandoc.Application.Settings">
+    <option name="myPathToImages" value="$USER_HOME$/Workspace/my-iot/my-iot-business/import-resources" />
+  </component>
+</application>
