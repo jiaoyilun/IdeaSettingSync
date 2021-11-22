@@ -3,6 +3,7 @@
     <option name="TRUSTED_PATHS">
       <list>
         <option value="$USER_HOME$/Workspace/my-iot" />
+        <option value="$USER_HOME$/OpenSource/fink" />
       </list>
     </option>
   </component>
