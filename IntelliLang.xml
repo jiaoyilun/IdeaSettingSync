@@ -159,6 +159,16 @@
       <place><![CDATA[sqlElement().forDialects("Sybase").binaryExpressionArgument(0, sqlBinaryExpression().operation(leafTokens("xmltest").or("not", "xmltest")))]]></place>
       <place><![CDATA[sqlElement().forDialects("Sybase").functionArgument(0, sqlFunctionCall().name("xmlextract"))]]></place>
     </injection>
+    <injection language="RegExp" injector-id="xml">
+      <display-name>IntelliJ IDEA injection patterns</display-name>
+      <place><![CDATA[xmlTag().withLocalName("ignore-pattern").withParent(xmlTag().withLocalName("injection").withParent(xmlTag().withLocalName("component")))]]></place>
+      <place><![CDATA[xmlTag().withLocalName("value-pattern").withParent(xmlTag().withLocalName("injection").withParent(xmlTag().withLocalName("component")))]]></place>
+    </injection>
+    <injection language="Groovy" injector-id="xml">
+      <display-name>IntelliJ IDEA pattern</display-name>
+      <place><![CDATA[xmlTag().withLocalName("pattern").inside(xmlTag().withLocalName("idea-plugin"))]]></place>
+      <place><![CDATA[xmlTag().withLocalName("place").withParent(xmlTag().withLocalName("injection").withParent(xmlTag().withLocalName("component")))]]></place>
+    </injection>
     <injection language="SpEL" injector-id="xml">
       <display-name>SpEL for Spring Cache</display-name>
       <place><![CDATA[xmlAttribute().withLocalName("condition").withParent(xmlTag().withNamespace(string().equalTo("http://www.springframework.org/schema/cache")))]]></place>
