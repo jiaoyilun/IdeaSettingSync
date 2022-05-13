@@ -4,6 +4,7 @@
       <list>
         <option value="com.intellij.bigdatatools" />
         <option value="com.intellij.beanValidation" />
+        <option value="TestNG-J" />
       </list>
     </option>
   </component>
