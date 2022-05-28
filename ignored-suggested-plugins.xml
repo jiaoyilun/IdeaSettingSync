@@ -5,6 +5,7 @@
         <option value="com.intellij.bigdatatools" />
         <option value="com.intellij.beanValidation" />
         <option value="TestNG-J" />
+        <option value="com.intellij.drools" />
       </list>
     </option>
   </component>
