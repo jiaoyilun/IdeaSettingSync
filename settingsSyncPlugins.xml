@@ -102,6 +102,31 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="JFormDesigner">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.java" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="JFormDesigner-Marketplace-Edition">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.java" />
+                  <option value="com.intellij.modules.ultimate" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
         <entry key="JSIntentionPowerPack">
           <value>
             <PluginData>
