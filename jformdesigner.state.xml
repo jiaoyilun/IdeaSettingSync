@@ -5,6 +5,9 @@
     <entry key="updates.lastchecked" value="1654845490932" />
     <node name="designer">
       <entry key="properties.expanded.events" value="true" />
+      <node name="forms">
+        <entry key="selection977056388" value="comboBox1" />
+      </node>
     </node>
   </component>
 </application>
