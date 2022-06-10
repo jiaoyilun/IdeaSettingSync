@@ -1,6 +1,6 @@
 <application>
   <component name="JFormDesigner">
-    <entry key="lookandfeel.idea" value="com.intellij.ide.ui.laf.IntelliJLaf" />
+    <entry key="lookandfeel.idea" value="com.intellij.ide.ui.laf.darcula.DarculaLaf" />
     <entry key="updates.lastcheckedversion" value="7.0.5.4.420" />
     <entry key="updates.lastchecked" value="1654137653739" />
     <node name="designer">
