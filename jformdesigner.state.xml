@@ -8,6 +8,9 @@
       <entry key="codeditor.size" value="498, 430" />
       <entry key="properties.expanded.events" value="true" />
       <entry key="properties.expanded.category.properties" value="false" />
+      <node name="forms">
+        <entry key="selection977056388" value="positionField" />
+      </node>
     </node>
   </component>
 </application>
