@@ -9,6 +9,7 @@
       <entry key="properties.expanded.events" value="true" />
       <node name="forms">
         <entry key="selection977056388" value="resumePathButton" />
+        <entry key="selection50089518" value="dispatchEventButton,singleModeRadioButton,energyLevelLabel,orientationLabel,positionLabel,chkBoxEnable,setPropValueRadioBtn,removePropRadioBtn,triggerButton,dispatchCommandFailedButton,defaultOpTimeLbl,jLabel3,includeAppendixCheckBox,maxFwdVeloLbl,flowModeRadioButton,jLabel2,maxRevVeloLbl,propSetButton,filler1,orientationAngleTxt,keyLabel,maxDecelLbl,maxAccelLbl,pauseVehicleLabel,this" />
       </node>
     </node>
   </component>
