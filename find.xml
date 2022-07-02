@@ -7,5 +7,6 @@
     <mask>*.java</mask>
     <mask>*.config</mask>
     <mask>*.properties</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
